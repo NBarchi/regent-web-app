@@ -390,7 +390,7 @@ nav ul li a:hover{
 .about-overview-wrapper{
     display: grid;
     grid-template-columns: 0.5fr 1fr;
-    gap: 50px 100px;
+    gap: 100px 50px;
     width: 100%;
     max-width: 1300px; 
     margin: 0 auto; 
